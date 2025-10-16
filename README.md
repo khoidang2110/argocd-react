@@ -36,3 +36,7 @@ yq -i '.images[0].newTag = "1.0.1"' deploy/overlays/dev/kustomization.yaml
 git commit -am "bump dev to 1.0.1" && git push
 ```
 # sample-agrocd-react
+
+
+
+sửa version trong deploy/base/deployment.yaml
