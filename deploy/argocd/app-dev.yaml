@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/nhutvl504/sample-agrocd-react.git
+    repoURL: https://github.com/khoidang2110/argocd-react.git
     targetRevision: main
     path: deploy/overlays/dev
   destination:

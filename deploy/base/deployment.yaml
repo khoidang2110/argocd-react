@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: web
-          image: nhutlm1/react-nginx:1.0.2
+          image: khoidang2110/react-nginx-lab:1.0.0
           imagePullPolicy: IfNotPresent
           ports:
             - name: http
